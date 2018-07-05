@@ -7,7 +7,7 @@
 当今市面上产品端的形态多种多样，有传统的Web端、有可以运行在移动端App端(React Native,Weex,Ionic等)、还有微信小程序，支付宝小程序等各种五花八门端，当业务要求同时在不同的端都要求有所表现的时候，针对不同的端去编写多套代码的成本显然非常高，而且不易于维护，这时候我们只编写一套代码就能够适配到多端的能力就显得极为需要。
 使用 Taro，我们可以只书写一套代码，再通过 Taro 的编译工具，将源代码分别编译出可以在不同端（微信小程序、H5、App 端等）运行的代码（当然来自美团的Mpvue框架也可以）。有效地提升了开发效率和开发成本且易于维护。
 
-![image](http:1//user-gold-cdn.xitu.io/2018/6/7/163d9f93825ae795?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![image](https://github.com/maliaoMJ/shareT/blob/master/1.jpg)
 ### Taro与其它框架进行对比
 <table><tbody>
     <tr>
