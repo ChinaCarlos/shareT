@@ -382,6 +382,7 @@ Taro.render(<App />, document.getElementById('app'))
  * 不支持无状态组件
 </font>
 ### 结束语
+
   无论是打算学习Taro还是Mpvue，都应该先学习原生的微信小程序，然后在学习React/Vue进而再学习Taro和Vue,如果你精通React和Vue，感觉上手Mpvue和Taro很快，但是一开始用的不是很习惯。限制了Vue/React许多飘逸的写法与操作。
   
 > 以上是本人粗鄙的见解，欢迎指正！（看到我手里的菜刀了吗,想好了再说！）
@@ -397,10 +398,6 @@ Taro.render(<App />, document.getElementById('app'))
   
   【Taro】(https://nervjs.github.io/taro/)
   
-  【Vuejs】(https://cn.vuejs.org/)
-  
-  【ReactJS】(https://cn.vuejs.org/)
+    【Vuejs】(https://cn.vuejs.org/)
   
   【Redux】(http://www.redux.org.cn/)
-  
-  【Vuex】(http://www.redux.org.cn/)
