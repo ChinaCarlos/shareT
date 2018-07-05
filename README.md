@@ -1,5 +1,5 @@
 ![image](http://www.lavector.com/img/Lavector1-2.png)
-# 微信小程序开发技术分享
+# 微信小程序开发技术分享:anchor:
 ##### 目前编写微信小程序的技术有如下：微信开发者工具自带的一套开发技术，基于腾讯的WePY框架，美团的Mpvue，京东的Taro，这四个开发小程序技术目前是应用最为广泛的。今天最主要介绍的是来自京东凹凸团队的Taro框架。
 ### 什么是Taro?
  多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信小程序、H5、React Native 等的应用。
@@ -243,7 +243,7 @@ Taro.eventCenter.trigger
 Taro.eventCenter.off
 ```
 
-> ### 组件和页面的定义
+> ### :checkered_flag: 组件和页面的定义
   
   ```javascript
  import Taro, { Component } from '@tarojs/taro';
